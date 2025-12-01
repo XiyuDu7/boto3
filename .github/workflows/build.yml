@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - XiyuDu7-patch-1
+      - crt-mode
 
 
 jobs:
